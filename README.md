@@ -2,12 +2,16 @@
 
 Projeto de calculadora desenvolvido durante o curso da Alura.
 
+![Código da Calculadora Dart](code.png)
+
 ## Funcionalidades
-- [ ] Soma
-- [ ] Subtração
-- [ ] Multiplicação
-- [ ] Divisão
+- [x] Soma
+- [x] Subtração
+- [x] Multiplicação
+- [x] Divisão
 
 ## Como executar
 ```bash
 dart run
+
+
