@@ -2,7 +2,7 @@
 
 Projeto de calculadora desenvolvido durante o curso da Alura.
 
-![Código da Calculadora Dart](code.png)
+![Código da Calculadora Dart](calculadora.dart)
 
 ## Funcionalidades
 - [x] Soma
